@@ -1,0 +1,1 @@
+SwiftUICarbonGlobalHotkeyDemo.debug.dylib
